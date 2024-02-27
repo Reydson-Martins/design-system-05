@@ -1,0 +1,2 @@
+import{A as t}from"./index.e496f85f.js";import"./index.4b54a2ce.js";import"./iframe.3dafdb71.js";import"./extends.bd401154.js";import"./index.97086d56.js";import"./jsx-runtime.c93893f2.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/Reydson-Martins.png",alt:"Diego Fernandes"},argTypes:{src:{control:{type:"text"}}}},n={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{n as Primary,c as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.51d55d6a.js.map
